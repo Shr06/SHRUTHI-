@@ -1,6 +1,13 @@
 # SHRUTHI-
 Week-1
-Embedded system project using Tinkercad
+Tinkercad basic activity- stimulation,editing components,wiring and adding components.
+Completed
 
 Week-2
-Tinkercad activity (few more to do ,Sir)
+Tinkercad activity -Intoduction to breadboard,arduino and ultrasonic sensor
+Completed
+
+Week-3
+Project on Embedded systems using Tinkercad
+TOPIC- HOME AUTOMATION USING TINKERCAD
+
