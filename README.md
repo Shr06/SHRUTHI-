@@ -8,6 +8,6 @@ Tinkercad activity -Intoduction to breadboard,arduino and ultrasonic sensor.
 Completed.
 
 Week-3
-Project on Embedded systems using Tinkercad
+Project on Embedded systems programming using Tinkercad
 TOPIC- HOME AUTOMATION USING TINKERCAD
 
